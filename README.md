@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siddharth Shakya https://www.linkedin.com/in/siddharth-shakya-freelancer/
+- 👋 Hi, I’m Siddharth Shakya
 - 👀 I’m interested in solving challenging problems in creative ways
 - 🌱 Founder of [BlackApps.AI](https://www.linkedin.com/company/blackapps-ai), Launched [EasyApply](https://play.google.com/store/apps/details?id=com.blackapps.ai.easyapply)
 - 📫 siddharthsvnit@gmail.com, sidiisc.freelance@gmail.com
